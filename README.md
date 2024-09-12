@@ -2,7 +2,7 @@
 I'm a bachelor's student in Cognitive Data Science and I created this GitHub with the intent to display not just the skill I've acquired but the journey to get there. The content within it is plagued with unnecessary sassy comments and is sprinkled with too much storytelling. This condition is terminal and though I try to limit my audacious remarks they somehow always manage to seep into my content. So for any future employees or talent acquisition please disregard the username and excessive sass.
 
 ## Skills & Technologies
-- _Programming Languages:_ Python, Javascript (Typescript), F#, C# (Unity), VBA / Officescripts
+- _Programming Languages:_ Python, R, Javascript (Typescript), F#, C# (Unity), VBA / Officescripts
 - _Web Development:_ HTML, CSS, React, Adobe XD, Adobe Illustrator
 - _Tools:_ Git, Excel
 - _Databases:_ There should definetily be something here...
