@@ -1,4 +1,4 @@
-## :open_mouth: Welcome to my deranged Data Science journey :open_mouth:
+## :open_mouth: Welcome to my Data Science journey :open_mouth:
 I'm a bachelor's student in Cognitive Data Science and I created this GitHub with the intent to display not just the skill I've acquired but the journey to get there. The content within it is plagued with sassy comments and sprinkled with too much storytelling. This condition is terminal and though I try to limit my audacious remarks they somehow always manage to seep into my content. So for any future employees or talent acquisition please disregard the excessive sass.
 
 ## Skills & Technologies
